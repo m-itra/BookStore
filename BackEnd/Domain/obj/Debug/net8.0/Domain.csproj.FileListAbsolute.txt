@@ -31,3 +31,14 @@ C:\Users\mitra\source\repos\bookstore\BackEnd\Domain\obj\Debug\net8.0\Domain.dll
 C:\Users\mitra\source\repos\bookstore\BackEnd\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\mitra\source\repos\bookstore\BackEnd\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\mitra\source\repos\bookstore\BackEnd\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\mitra\Desktop\BookStore-main\BackEnd\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\mitra\Desktop\BookStore-main\BackEnd\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\mitra\Desktop\BookStore-main\BackEnd\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\mitra\Desktop\BookStore-main\BackEnd\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\BookStore-main\BackEnd\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\BookStore-main\BackEnd\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\mitra\Desktop\BookStore-main\BackEnd\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\BookStore-main\BackEnd\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\mitra\Desktop\BookStore-main\BackEnd\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\mitra\Desktop\BookStore-main\BackEnd\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\mitra\Desktop\BookStore-main\BackEnd\Domain\obj\Debug\net8.0\ref\Domain.dll

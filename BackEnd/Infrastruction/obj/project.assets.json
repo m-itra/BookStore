@@ -2973,11 +2973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mitra\\source\\repos\\bookstore\\BackEnd\\Infrastruction\\Infrastruction.csproj",
+      "projectUniqueName": "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\Infrastruction\\Infrastruction.csproj",
       "projectName": "Infrastruction",
-      "projectPath": "C:\\Users\\mitra\\source\\repos\\bookstore\\BackEnd\\Infrastruction\\Infrastruction.csproj",
+      "projectPath": "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\Infrastruction\\Infrastruction.csproj",
       "packagesPath": "C:\\Users\\mitra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mitra\\source\\repos\\bookstore\\BackEnd\\Infrastruction\\obj\\",
+      "outputPath": "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\Infrastruction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2998,8 +2998,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\mitra\\source\\repos\\bookstore\\BackEnd\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\mitra\\source\\repos\\bookstore\\BackEnd\\Application\\Application.csproj"
+            "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\Application\\Application.csproj"
             }
           }
         }
@@ -3051,7 +3051,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

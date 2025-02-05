@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mitra\\source\\repos\\bookstore\\BackEnd\\",
+  "WorkspaceRootPath": "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7B1769D-E5FE-40BB-A2EE-50A4856BADD1}|BookStore\\BookStore.csproj|c:\\users\\mitra\\source\\repos\\bookstore\\backend\\bookstore\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A7B1769D-E5FE-40BB-A2EE-50A4856BADD1}|BookStore\\BookStore.csproj|c:\\users\\mitra\\desktop\\bookstore-main\\backend\\bookstore\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A7B1769D-E5FE-40BB-A2EE-50A4856BADD1}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B1769D-E5FE-40BB-A2EE-50A4856BADD1}|BookStore\\BookStore.csproj|c:\\users\\mitra\\source\\repos\\bookstore\\backend\\bookstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A7B1769D-E5FE-40BB-A2EE-50A4856BADD1}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A7B1769D-E5FE-40BB-A2EE-50A4856BADD1}|BookStore\\BookStore.csproj|c:\\users\\mitra\\desktop\\bookstore-main\\backend\\bookstore\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A7B1769D-E5FE-40BB-A2EE-50A4856BADD1}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B1769D-E5FE-40BB-A2EE-50A4856BADD1}|BookStore\\BookStore.csproj|c:\\users\\mitra\\source\\repos\\bookstore\\backend\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7B1769D-E5FE-40BB-A2EE-50A4856BADD1}|BookStore\\BookStore.csproj|c:\\users\\mitra\\desktop\\bookstore-main\\backend\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7B1769D-E5FE-40BB-A2EE-50A4856BADD1}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B1769D-E5FE-40BB-A2EE-50A4856BADD1}|BookStore\\BookStore.csproj|c:\\users\\mitra\\desktop\\bookstore-main\\backend\\bookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7B1769D-E5FE-40BB-A2EE-50A4856BADD1}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B1769D-E5FE-40BB-A2EE-50A4856BADD1}|BookStore\\BookStore.csproj|c:\\users\\mitra\\desktop\\bookstore-main\\backend\\bookstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7B1769D-E5FE-40BB-A2EE-50A4856BADD1}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\mitra\\source\\repos\\bookstore\\BackEnd\\BookStore\\docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\BookStore\\docker-compose.yml",
               "RelativeDocumentMoniker": "BookStore\\docker-compose.yml",
-              "ToolTip": "C:\\Users\\mitra\\source\\repos\\bookstore\\BackEnd\\BookStore\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\BookStore\\docker-compose.yml",
               "RelativeToolTip": "BookStore\\docker-compose.yml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-12-19T18:12:49.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\mitra\\source\\repos\\bookstore\\BackEnd\\BookStore\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "BookStore\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\mitra\\source\\repos\\bookstore\\BackEnd\\BookStore\\appsettings.Development.json",
-              "RelativeToolTip": "BookStore\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-19T18:13:12.228Z",
+              "WhenOpened": "2025-02-05T16:59:01.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mitra\\source\\repos\\bookstore\\BackEnd\\BookStore\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\BookStore\\Program.cs",
               "RelativeDocumentMoniker": "BookStore\\Program.cs",
-              "ToolTip": "C:\\Users\\mitra\\source\\repos\\bookstore\\BackEnd\\BookStore\\Program.cs",
+              "ToolTip": "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\BookStore\\Program.cs",
               "RelativeToolTip": "BookStore\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAuwCgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T17:50:41.31Z",
+              "WhenOpened": "2025-02-05T14:45:22.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\BookStore\\Dockerfile",
+              "RelativeDocumentMoniker": "BookStore\\Dockerfile",
+              "ToolTip": "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\BookStore\\Dockerfile",
+              "RelativeToolTip": "BookStore\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-05T12:04:06.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\BookStore\\appsettings.json",
+              "RelativeDocumentMoniker": "BookStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\BookStore\\appsettings.json",
+              "RelativeToolTip": "BookStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T17:27:47.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\BookStore\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BookStore\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mitra\\Desktop\\BookStore-main\\BackEnd\\BookStore\\appsettings.Development.json",
+              "RelativeToolTip": "BookStore\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T18:13:12.228Z",
               "EditorCaption": ""
             }
           ]

@@ -12,7 +12,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace Infrastruction.Migrations
 {
     [DbContext(typeof(BookStoreDbContext))]
-    [Migration("20241219075546_init")]
+    [Migration("20250205120013_init")]
     partial class init
     {
         /// <inheritdoc />
